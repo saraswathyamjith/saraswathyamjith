@@ -18,7 +18,6 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 ### [In-Context Learning for Esoteric Programming Languages: Evaluating and Enhancing LLM Reasoning Without Fine-Tuning](https://github.com/saraswathyamjith/In-Context-Learning-for-Esoteric-Programming-Languages)
 • Researching the application of LLMs for programming in esoteric languages, focusing on their ability to reason and adapt beyond their training data. <br>
 • Evaluating a novel in-context reinforcement learning approach to enhance large language models performance on highly specialized tasks without costly overhead of retraining data. <br>
-[GitHub Repo]
 
 ### Illegal Logging Remote Sensing Detection
 • Developed a novel machine learning approach combining radar and satellite imagery to detect selective logging in tropical forests. <br>
