@@ -25,7 +25,7 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 
 ## Projects
 ### 👗 Fittd.
-• Created **Fittd.**, a social fashion-sharing app that allows users to post and browse daily outfit of the day's (OOTD's) !. The app is available on the App Store.
+• Created **Fittd.**, a social fashion-sharing app that allows users to post and browse daily outfit of the day's (OOTD's) !. The app is available on the App Store.<br>
 [fittdapp.com](http://fittdapp.com) [iOS App Store ](https://apps.apple.com/us/app/fittd/id6504975404)
 
 ---
