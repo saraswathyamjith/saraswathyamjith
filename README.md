@@ -21,9 +21,9 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 
 ### 🌲 Illegal Logging Remote Sensing Detection
 • Developed a novel machine learning approach combining radar and satellite imagery to detect selective logging in tropical forests. 
-• This project earned me a finalist position in the 2024 Regeneron Science Talent Search, recongition as the nation's top 40 young scientists. :contentReference[oaicite:0]{index=0}
+• This project earned me a finalist position in the 2024 Regeneron Science Talent Search, recongition as the nation's top 40 young scientists. 
 
 ### 👗 Fittd.
-• Created **Fittd.**, a social fashion-sharing app that allows users to post and browse daily outfit inspirations. The app is available on the App Store. :contentReference[oaicite:2]{index=2}
+• Created **Fittd.**, a social fashion-sharing app that allows users to post and browse daily outfit inspirations. The app is available on the App Store.{index=2}
 
 ---
