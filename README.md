@@ -37,7 +37,3 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 • Built and maintain the public site for PoweringSTEM, a global nonprofit for STEM outreach.  
 🌐 [poweringstem.com](http://poweringstem.com) | 💻 [GitHub Repo](https://github.com/saraswathyamjith/poweringstem-website)
 
-### 🎨 Recursive Doll Art
-• Developed a recursive generative art project in Java that visually builds a pyramid of stylized dolls.  
-🖼️ [GitHub Repo](https://github.com/saraswathyamjith/recursive-doll-art)
-
