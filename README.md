@@ -33,6 +33,12 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 • Engineered an innovative AI-powered flashcard generator using the OpenAI API, Flask, and SQL to create interactive study experiences.  
 💻 [GitHub Repo](https://github.com/saraswathyamjith/studyhacks)
 
+
+### 🩺 Care.Companion
+• Built an iOS app designed to assist the elderly with task reminders, appointment tracking, and emergency contacts, using Swift and Core Data.  
+🌐 [carecompanionapp.com](http://carecompanionapp.com) | 💻 [GitHub Repo](https://github.com/saraswathyamjith/care-companion)
+
+
 ### ⚙️ PoweringSTEM Website
 • Built and maintain the public site for PoweringSTEM, a global nonprofit for STEM outreach.  
 🌐 [poweringstem.com](http://poweringstem.com) | 💻 [GitHub Repo](https://github.com/saraswathyamjith/poweringstem-website)
