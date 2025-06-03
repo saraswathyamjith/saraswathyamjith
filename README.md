@@ -27,7 +27,7 @@ I'm a student at MIT pursuing a double major in **Computer Science** and **Mathe
 
 ### 👗 Fittd.
 • Created **Fittd.**, a social fashion-sharing app that allows users to post and browse daily outfit-of-the-day (OOTD) posts. The app is available on the App Store.  
-🌐 [fittdapp.com](http://fittdapp.com) | 📱 [iOS App Store](https://apps.apple.com/us/app/fittd/id6504975404) | 💻 [GitHub Repo (Private)](https://github.com/saraswathyamjith/fittd) 🔒
+🌐 [fittdapp.com](http://fittdapp.com) | 📱 [iOS App Store](https://apps.apple.com/us/app/fittd/id6504975404) | 💻 [GitHub Repo](https://github.com/saraswathyamjith/fittd) 🔒
 
 ### 🧠 StudyHacks
 • Engineered an innovative AI-powered flashcard generator using the OpenAI API, Flask, and SQL to create interactive study experiences.  
